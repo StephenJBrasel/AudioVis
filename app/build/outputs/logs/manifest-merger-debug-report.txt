@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\52cf3eb6f2ca0d34817b256bb3c20a29\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\24e82db8fa7443b9b619220fc009d215\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a3869a5300f461e3cb4ddbce6cf2dcd4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\485c377223b523cf56100e97d33a25d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\c98fcc46a31e3a8e7fdb89e5a69aacd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\954203c7eda6c318814226d543d56a4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\2f3f9cbb45d129cb72ed894468d65b64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\2f961c1a93c1fceb44c3d9b905d8c81e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\624c949170bc8d1a22c035f8e433b544\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\8728f579a3c3dc5e114b092a3ba78cfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\902b8db2a7a360ebea7b23d53e7258ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\18548319f58e01d8c4a5f8250fcd12e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\cf9bee8226086426cee27b45bd6e8299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\1317be612b7c49983a5a2366af4d05c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\3792195384689693e2977c4b27bb40ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\0d5803c0bcdf03c3af2cc6e1872257d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\72b5f5bb54b9f9db8fb63837ed225128\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7b760c6a57f96a6430884b5010e8fbb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\725e52cf31b287ea8b7ebc7f22b1605d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\2f4ade50c19771c6cdfc9489d1953c4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\29ce21a25309dc433e9012b93a61620b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\791f5b0f7615125950c0454fd0574d72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fc0a26ad5f41f27bf0f8ade9b171e415\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7f82567e4eee9f246dd2355d42ef5583\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\fb2ad26fc95f30bad1f1e7478912b441\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\d034a117242ada9d5262d0ba5c5c3412\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a17e2bd6becd4f04729a899ddc003040\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\c96d198e596d5b006cb4f62a0348c2cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0045c95fd05c28e9ea2ef43fb004c711\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71ae0a1ca1bda36a03dc5eb7d491e330\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\52cf3eb6f2ca0d34817b256bb3c20a29\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\52cf3eb6f2ca0d34817b256bb3c20a29\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a3869a5300f461e3cb4ddbce6cf2dcd4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a3869a5300f461e3cb4ddbce6cf2dcd4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\725e52cf31b287ea8b7ebc7f22b1605d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\725e52cf31b287ea8b7ebc7f22b1605d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fc0a26ad5f41f27bf0f8ade9b171e415\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fc0a26ad5f41f27bf0f8ade9b171e415\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\725e52cf31b287ea8b7ebc7f22b1605d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.zfile.audiovis.MainActivity
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.zfile.audiovis.permissions.PermissionsActivity
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:24:9-26:47
+	android:theme
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:25:13-60
+activity#com.example.zfile.audiovis.CreditsActivity
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:27:9-37:20
+	android:parentActivityName
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:29:13-55
+	android:label
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:30:13-47
+	android:theme
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:28:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:33:13-36:19
+	android:value
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:35:17-46
+	android:name
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml:34:17-63
+uses-sdk
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\52cf3eb6f2ca0d34817b256bb3c20a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\52cf3eb6f2ca0d34817b256bb3c20a29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\24e82db8fa7443b9b619220fc009d215\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\24e82db8fa7443b9b619220fc009d215\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a3869a5300f461e3cb4ddbce6cf2dcd4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\a3869a5300f461e3cb4ddbce6cf2dcd4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\485c377223b523cf56100e97d33a25d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\485c377223b523cf56100e97d33a25d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\c98fcc46a31e3a8e7fdb89e5a69aacd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\c98fcc46a31e3a8e7fdb89e5a69aacd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\954203c7eda6c318814226d543d56a4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\954203c7eda6c318814226d543d56a4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\2f3f9cbb45d129cb72ed894468d65b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\2f3f9cbb45d129cb72ed894468d65b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\2f961c1a93c1fceb44c3d9b905d8c81e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\2f961c1a93c1fceb44c3d9b905d8c81e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\624c949170bc8d1a22c035f8e433b544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\624c949170bc8d1a22c035f8e433b544\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\8728f579a3c3dc5e114b092a3ba78cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\8728f579a3c3dc5e114b092a3ba78cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\902b8db2a7a360ebea7b23d53e7258ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\902b8db2a7a360ebea7b23d53e7258ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\18548319f58e01d8c4a5f8250fcd12e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\18548319f58e01d8c4a5f8250fcd12e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\cf9bee8226086426cee27b45bd6e8299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\cf9bee8226086426cee27b45bd6e8299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\1317be612b7c49983a5a2366af4d05c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\1317be612b7c49983a5a2366af4d05c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\3792195384689693e2977c4b27bb40ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\3792195384689693e2977c4b27bb40ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\0d5803c0bcdf03c3af2cc6e1872257d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\0d5803c0bcdf03c3af2cc6e1872257d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\72b5f5bb54b9f9db8fb63837ed225128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\72b5f5bb54b9f9db8fb63837ed225128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7b760c6a57f96a6430884b5010e8fbb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\7b760c6a57f96a6430884b5010e8fbb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\725e52cf31b287ea8b7ebc7f22b1605d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\725e52cf31b287ea8b7ebc7f22b1605d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\2f4ade50c19771c6cdfc9489d1953c4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\2f4ade50c19771c6cdfc9489d1953c4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\29ce21a25309dc433e9012b93a61620b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\29ce21a25309dc433e9012b93a61620b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\791f5b0f7615125950c0454fd0574d72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\791f5b0f7615125950c0454fd0574d72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fc0a26ad5f41f27bf0f8ade9b171e415\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\fc0a26ad5f41f27bf0f8ade9b171e415\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7f82567e4eee9f246dd2355d42ef5583\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\7f82567e4eee9f246dd2355d42ef5583\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\fb2ad26fc95f30bad1f1e7478912b441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\fb2ad26fc95f30bad1f1e7478912b441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\d034a117242ada9d5262d0ba5c5c3412\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\d034a117242ada9d5262d0ba5c5c3412\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a17e2bd6becd4f04729a899ddc003040\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a17e2bd6becd4f04729a899ddc003040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\c96d198e596d5b006cb4f62a0348c2cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\c96d198e596d5b006cb4f62a0348c2cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0045c95fd05c28e9ea2ef43fb004c711\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\0045c95fd05c28e9ea2ef43fb004c711\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71ae0a1ca1bda36a03dc5eb7d491e330\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zfile\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\71ae0a1ca1bda36a03dc5eb7d491e330\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zfile\Google Drive\Work\color-picker-view-master\AudioVis\app\src\main\AndroidManifest.xml
